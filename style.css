@@ -42,7 +42,7 @@ body {
   background-color: var(--Very-dark-cyan);
 }
 
-h2 {
+h1 {
   font-family: "Big Shoulders Display", sans-serif;
   font-size: 3.2rem;
 }
@@ -87,6 +87,7 @@ p {
   position: fixed;
   bottom: 1em;
   left: 1em;
+  color: #000;
 }
 
 .attribution a {
@@ -111,7 +112,7 @@ p {
     display: none;
   }
 
-  h2 {
+  h1 {
     margin-bottom: 4rem;
   }
 
